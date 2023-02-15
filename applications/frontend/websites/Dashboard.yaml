@@ -5,8 +5,7 @@ domains:
     - generated
 source:
     paths:
-        - /dashboard
-    includes: []
+        - /
     branch: main
     github:
         id: 601533910
