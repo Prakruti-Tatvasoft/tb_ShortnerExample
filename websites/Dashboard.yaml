@@ -1,13 +1,12 @@
-id: QmaHb5KQPZyx6Bf7JbWBWhxPR44xFxHjFfLT9hYDoJj4ze
+id: QmfJURCoSChCubqFwcfJkjm6j1nUPwcrjLsAf8k8DEtrZq
 description: ""
 tags: []
 domains:
     - generated
 source:
     paths:
-        - /
-    includes: []
-    branch: main
+        - /d
+    branch: master
     github:
-        id: 601533910
-        fullname: Prakruti-Tatvasoft/tb_website_Dashboard
+        id: 602014169
+        fullname: Prakruti-Tatvasoft/tb_website_ShortenDashboardExample
