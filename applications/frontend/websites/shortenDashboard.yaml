@@ -6,7 +6,7 @@ domains:
 source:
     paths:
         - /
-    branch: main
+    branch: master
     github:
         id: 602004489
         fullname: Prakruti-Tatvasoft/tb_website_ShortenDashboard
