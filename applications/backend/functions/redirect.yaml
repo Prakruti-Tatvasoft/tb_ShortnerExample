@@ -1,0 +1,16 @@
+id: QmT9d4w5rYvzU39K5Jwts7MT9WoD4mZBRxb5rzvn8AdUjA
+description: ""
+tags: []
+trigger:
+    type: https
+    method: GET
+    paths:
+        - /
+domains:
+    - generated
+includes:
+    - /backend/functions/redirect.go
+execution:
+    timeout: 10s
+    memory: 10MB
+    call: redirect
