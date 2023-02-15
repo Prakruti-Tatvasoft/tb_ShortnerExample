@@ -1,0 +1,12 @@
+id: QmfJURCoSChCubqFwcfJkjm6j1nUPwcrjLsAf8k8DEtrZq
+description: ""
+tags: []
+domains:
+    - generated
+source:
+    paths:
+        - /
+    branch: main
+    github:
+        id: 602014169
+        fullname: Prakruti-Tatvasoft/tb_website_ShortenDashboardExample
