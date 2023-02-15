@@ -1,6 +1,7 @@
 id: QmXSZPcaHn9V6rrYm3GFL4PycwPP4QxZR18P8fbFRXHgiW
 description: ""
 tags: []
+source: .
 trigger:
     type: https
     method: POST
@@ -8,8 +9,6 @@ trigger:
         - /ping
 domains:
     - generated
-includes:
-    - /backend/functions/shorten.go
 execution:
     timeout: 10s
     memory: 10MB

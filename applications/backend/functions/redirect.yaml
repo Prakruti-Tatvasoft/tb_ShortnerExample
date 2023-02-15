@@ -1,6 +1,7 @@
 id: QmT9d4w5rYvzU39K5Jwts7MT9WoD4mZBRxb5rzvn8AdUjA
 description: ""
 tags: []
+source: .
 trigger:
     type: https
     method: GET
@@ -8,8 +9,6 @@ trigger:
         - /
 domains:
     - generated
-includes:
-    - /backend/functions/redirect.go
 execution:
     timeout: 10s
     memory: 10MB

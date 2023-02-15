@@ -1,0 +1,13 @@
+id: QmYiW34PyiB5CoKTpkH1Q28ezk98VfRLsLpYmSA1UcJiEx
+description: ""
+tags: []
+path: /
+match: urls
+useRegex: false
+access:
+    network: all
+replicas:
+    min: 2
+    max: 5
+storage:
+    size: 1GB
