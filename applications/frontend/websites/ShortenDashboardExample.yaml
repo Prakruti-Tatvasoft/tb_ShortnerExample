@@ -6,7 +6,7 @@ domains:
 source:
     paths:
         - /d
-    branch: main
+    branch: master
     github:
         id: 602014169
         fullname: Prakruti-Tatvasoft/tb_website_ShortenDashboardExample
